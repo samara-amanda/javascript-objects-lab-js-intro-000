@@ -14,5 +14,5 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
     prop2: 2
   }
 
-  return destructivelyUpdateObjectWithKeyAndValue(obj, prop2, '2')
+  return destructivelyUpdateObjectWithKeyAndValue(obj, prop, 1)
 }
