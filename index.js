@@ -15,3 +15,4 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   var newObj = {
     prop2: 2
   }
+}
